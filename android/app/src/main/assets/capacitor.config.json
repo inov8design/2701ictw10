@@ -1,0 +1,8 @@
+{
+  "appId": "au.com.inov8design.week10",
+  "appName": "week10",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
